@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_Project</string>
+    <string name="key">AIzaSyC5eUEV40pNnupXJiv5Nf2i3Elg3lKWvcM</string>
+    <string name="url">https://my-json-server.typicode.com/Nomemmurrakh/reminderApp/reminders</string>
+</resources>
